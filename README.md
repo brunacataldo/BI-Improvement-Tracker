@@ -41,7 +41,3 @@ O painel foi desenvolvido para responder às seguintes perguntas do Coordenador:
 4. Realize as modificações necessárias no Power Query conforme documentado.
 6. Explore o painel, utilizando os filtros disponíveis para uma análise personalizada.
 6. Esperamos que este painel forneça uma visão abrangente e fácil de entender sobre o status das melhorias solicitadas.
-
-## View
-
-
