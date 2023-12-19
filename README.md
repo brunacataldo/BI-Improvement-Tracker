@@ -37,3 +37,8 @@ Além das perguntas mencionadas, o Coordenador solicitou a inclusão de filtros 
 4. Realize as modificações necessárias no Power Query conforme documentado.
 6. Explore o painel, utilizando os filtros disponíveis para uma análise personalizada.
 6. Esperamos que este painel forneça uma visão abrangente e fácil de entender sobre o status das melhorias solicitadas.
+
+<p float="left">
+  <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/10c54afc-aac8-49b1-bbbd-9cfe8e44bfde" width="400" />
+  <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/70334f10-00b9-44f3-bf48-de1c5c9f8171" width="400" />
+</p>
