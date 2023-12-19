@@ -9,7 +9,14 @@ O projeto oferece duas opções de visualização:
 
 Ambos os modos foram projetados no Figma para garantir uma experiência visual consistente e agradável. Os arquivos de design estão disponíveis [aqui](https://www.figma.com/file/BcuxnqmE1kYqWZoQ4kCr6p/BI-backgrounds?type=design&node-id=0%3A1&mode=design&t=ZSKxU4eYSYIqqVVZ-1).
 
-Imagine um setor que centraliza as necessidades de melhorias de processo de toda a companhia. A planilha Excel utilizada anteriormente não oferecia uma visão rápida e clara do andamento das melhorias solicitadas. O Coordenador da área requisitou a criação de um painel no Power BI para permitir uma visão mais eficiente e rápida sobre o status das melhorias.
+### View
+<div style="display: flex; justify-content: space-between; align-items:center;">
+    <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/10c54afc-aac8-49b1-bbbd-9cfe8e44bfde" alt="dashboard_dark" width="300"/>
+    <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/70334f10-00b9-44f3-bf48-de1c5c9f8171" alt="dashboard_light" width="300"/>
+</div>
+
+## Contexto
+Imagine um setor que centraliza as necessidades de melhorias de processo de toda a companhia. A planilha Excel utilizada não oferecia uma visão rápida e clara do andamento das melhorias solicitadas. O Coordenador da área requisitou a criação de um painel no Power BI para permitir uma visão mais eficiente e rápida sobre o status das melhorias. Além disso, pediu a inclusão de filtros para facilitar a personalização da visualização, permitindo a análise por empresa, área, status e tipo de ganho.
 
 ## Perguntas Respondidas pelo Painel
 O painel foi desenvolvido para responder às seguintes perguntas do Coordenador:
@@ -23,9 +30,6 @@ O painel foi desenvolvido para responder às seguintes perguntas do Coordenador:
 7. Quantidade de melhorias por tipo de ganho (Processo, Partes interessadas, Clientes internos e Financeiro)
 8. Tipos de melhoria mais solicitados
 
-## Solicitação Adicional do Coordenador
-Além das perguntas mencionadas, o Coordenador solicitou a inclusão de filtros para facilitar a personalização da visualização, permitindo a análise por empresa, área, status e tipo de ganho.
-
 ## Informações Importantes
 - **Base de Dados:** A base utilizada está no arquivo "acompanhamento_de_melhorias.xlsx."
 - **Ferramenta Utilizada:** O painel foi construído utilizando o Power BI.
@@ -38,7 +42,6 @@ Além das perguntas mencionadas, o Coordenador solicitou a inclusão de filtros 
 6. Explore o painel, utilizando os filtros disponíveis para uma análise personalizada.
 6. Esperamos que este painel forneça uma visão abrangente e fácil de entender sobre o status das melhorias solicitadas.
 
-<p float="left">
-  <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/10c54afc-aac8-49b1-bbbd-9cfe8e44bfde" width="400" />
-  <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/70334f10-00b9-44f3-bf48-de1c5c9f8171" width="400" />
-</p>
+## View
+
+
