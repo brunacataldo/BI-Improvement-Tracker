@@ -4,12 +4,12 @@ Este repositório contém os arquivos e informações relacionados à construç�
 ## Modos de Visualização
 O projeto oferece duas opções de visualização:
 
-- **Modo Light:** Uma versão clara e amigável para ambientes bem iluminados.
 - **Modo Dark:** Uma versão escura e de alto contraste para condições de baixa luminosidade.
+-  **Modo Light:** Uma versão clara e amigável para ambientes bem iluminados.
 
 Ambos os modos foram projetados no Figma para garantir uma experiência visual consistente e agradável. Os arquivos de design estão disponíveis [aqui](https://www.figma.com/file/BcuxnqmE1kYqWZoQ4kCr6p/BI-backgrounds?type=design&node-id=0%3A1&mode=design&t=ZSKxU4eYSYIqqVVZ-1).
 
-### View
+### Views
 <div style="display: flex; justify-content: space-between; align-items:center;">
     <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/10c54afc-aac8-49b1-bbbd-9cfe8e44bfde" alt="dashboard_dark" width="300"/>
     <img src="https://github.com/brunacataldo/BI-Improvement-Tracker/assets/131699211/70334f10-00b9-44f3-bf48-de1c5c9f8171" alt="dashboard_light" width="300"/>
