@@ -7,7 +7,7 @@ O projeto oferece duas opções de visualização:
 - **Modo Dark:** Uma versão escura e de alto contraste para condições de baixa luminosidade.
 -  **Modo Light:** Uma versão clara e amigável para ambientes bem iluminados.
 
-Ambos os modos foram projetados no Figma para garantir uma experiência visual consistente e agradável. Os arquivos de design estão disponíveis [aqui](https://www.figma.com/file/BcuxnqmE1kYqWZoQ4kCr6p/BI-backgrounds?type=design&node-id=0%3A1&mode=design&t=ZSKxU4eYSYIqqVVZ-1).
+Ambos os modos foram projetados no Figma para garantir uma experiência visual consistente e agradável. Os arquivos de design estão disponíveis [aqui](https://www.figma.com/file/BcuxnqmE1kYqWZoQ4kCr6p/BI-backgrounds?type=design&node-id=0%3A1&mode=design&t=ZSKxU4eYSYIqqVVZ-1),  permitindo que sejam baixados e adaptados para atender às necessidades específicas de qualquer projeto.
 
 ### Views
 <div style="display: flex; justify-content: space-between; align-items:center;">
