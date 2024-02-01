@@ -1,5 +1,5 @@
 # BI Improvement Tracker
-Este repositório contém os arquivos e informações relacionados à construção de um painel no Power BI para acompanhar as melhorias de processos solicitadas por diferentes áreas da companhia. O ponto de partida foi a planilha Excel "acompanhamento_de_melhorias.xlsx", que foi importada no Power BI, com modificações no Power Query e a criação de gráficos para proporcionar uma visualização mais eficiente das informações.
+Este repositório contém os arquivos e informações relacionados à construção de um relatório no Power BI para acompanhar as melhorias de processos solicitadas por diferentes áreas da companhia. O ponto de partida foi a planilha Excel "acompanhamento_de_melhorias.xlsx", que foi importada no Power BI, com modificações no Power Query e a criação de gráficos para proporcionar uma visualização mais eficiente das informações.
 
 ## Modos de Visualização
 O projeto oferece duas opções de visualização:
